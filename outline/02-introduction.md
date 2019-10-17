@@ -18,7 +18,7 @@ Today we are using the DeepLab model in RunwayML<br>
 
 
 
-## Overview of Our Process Today
+## Process Overview
 1. Create semantic image maps of our bodies using the DeepLab model
 2. Use Adobe Photoshop to batch “color label” our semantic maps
 3. Synthesize new images from these semantic maps using SPADE-Landscapes model
