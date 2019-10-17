@@ -1,6 +1,6 @@
 # Step 1: Semantic Image Segmentation using DeepLab
 1. In RunwayML, add DeepLab to a Workspace<br>
-    [![Open in RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=genekogan/spade-landscapes)
+    [![Open in RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=genekogan/DeepLab)
 2. Set these options
     * Inference Options Command === Mask One
     * Inference Options Class == Person
