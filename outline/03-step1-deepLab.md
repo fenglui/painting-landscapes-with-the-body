@@ -7,7 +7,7 @@
 3. Input === Camera
 4. Output === Preview
 5. Click Run Remotely
-6. If all goes well, you should see a semantic image map that looks like the image below.
+6. If all goes well, you should see a semantic image map that looks something like the image below.
 7. Next, click the Output Export button to save a series of images from the video capture into a folder on your computer.
     * Export Type === Image Directory 
     * File Name === select this to set the name and location for an image directory to store the exported images
@@ -15,6 +15,8 @@
     * Click Export 
     * When finished, click Stop Export
     * Check your new directory for your saved images!
+
+![demo](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/images/demo_deepLab.png)
 
 <br></br>
 Next [Step 2: Batch Color Labeling using Adobe Photoshop](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/outline/04-step2-photoshop.md)
