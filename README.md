@@ -1,6 +1,7 @@
 # Painting Landscapes with the Body 💃🏽 🖼
 A workshop on semantic image segmentation and synthesis using RunwayML +  Adobe Photoshop
 
+<br>
 AI Lab @ NYU ITP<br>
 Friday October 18 @ 6pm<br>
 Conference Room<br>
