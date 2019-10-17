@@ -1,6 +1,6 @@
 # Step 2: Batch Color Labeling using Adobe Photoshop
 
-## Part 1: Get the segmentation map colors
+## Part 1: Get the segmentation map colors from SPADE-Landscapes
 1. In RunwayML, add SPADE-Landscapes to a Workspace
 2. Input === Segmentation
 3. Under Options (on the right), find the tiny `Export Colors` button, above the color labels. Click it to download the color labels to your computer for reference.
