@@ -5,6 +5,7 @@
 2. Input === Segmentation
 3. Under Options (on the right), find the tiny `Export Colors` button, above the color labels. Click it to download the color labels to your computer for reference.
 
+<br></br>
 (👇Perhaps the trickiest part of the workshop)
 ## Part 2: Use Photoshop batch color change the images exported from DeepLab
 1. Open your first DeepLab image in Photoshop
