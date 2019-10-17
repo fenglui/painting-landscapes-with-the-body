@@ -1,5 +1,5 @@
 # Step 3: Semantic Image Synthesis using the SPADE-Landscapes Model
-1. In RunwayML, add SPADE-Landscapes to a Workspace<br>
+1. Return to SPADE-Landscapes<br>
 [![Open in RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=genekogan/spade-landscapes)
 2. Input === File, then Open Directory === Image directory with Adobe-processed images
 3. Output === Export
