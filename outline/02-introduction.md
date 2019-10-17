@@ -5,13 +5,13 @@
 [Based on this process for a similar project using a pix2pix model](http://github.com/memo/webcam-pix2pix-tensorflow)<br>
 [Christopher Hesse’s Image-to-Image Demo with pix2pix-tensorflow](https://affinelayer.com/pixsrv/)<br>
 
-Semantic Image Synthesis (our goal)<br>
+<b>Semantic Image Synthesis (our goal)</b><br>
 Today we are using the SPADE-Landscapes model in RunwayML<br>
 [NVIDIA’s SPADE](https://nvlabs.github.io/SPADE/)<br> 
 [SPADE Code](https://github.com/agermanidis/SPADE)<br>
 
 
-Semantic Image Segmentation (our starting point)<br> 
+<b>Semantic Image Segmentation (our starting point)</b><br> 
 Today we are using the DeepLab model in RunwayML<br>
 [DeepLab Code](https://github.com/genekogan/deeplab-pytorch)<br>
 [COCO-Stuff Dataset: Things and Stuff Classes in Context](https://github.com/nightrome/cocostuff)<br>

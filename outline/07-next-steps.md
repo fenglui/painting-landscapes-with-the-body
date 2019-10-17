@@ -1,4 +1,6 @@
 # Next Steps
+Here are some additional experiments to try:
+
 From what else can you create semantic image maps? 
 
 Try the other SPADE implementations in RunwayML!<br>
