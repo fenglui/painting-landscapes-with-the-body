@@ -1,5 +1,5 @@
 # Step 4: Video Creation using GIF Brewery 
-Notes: Use this tool if the Video Export option in the Step 3 fails and you end up exporting images instead. Also, there are many, many other tools available for this kind of task--this is just a suggestion!
+Notes: Use this tool if the Video Export option in Step 3 fails and you end up exporting images instead. Also, there are many, many other tools available for this kind of task--this is just a suggestion!
 1. Launch GIF Brewery
 2. From the Start Screen or File menu, choose Stitch Images and Video 
 3. Click the “+” button
@@ -10,4 +10,4 @@ Notes: Use this tool if the Video Export option in the Step 3 fails and you end 
 5. Choose to Save OR Cancel to finetune and Set Image Delay
 
 <br></br>
-Next [Step 5: Next Steps](outline/07-next-steps.md)
+Next [Step 5: Next Steps](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/outline/07-next-steps.md)

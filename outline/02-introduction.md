@@ -6,16 +6,17 @@
 [Christopher Hesse’s Image-to-Image Demo with pix2pix-tensorflow](https://affinelayer.com/pixsrv/)<br>
 
 Semantic Image Synthesis (our goal)<br>
+Today we are using the SPADE-Landscapes model in RunwayML<br>
 [NVIDIA’s SPADE](https://nvlabs.github.io/SPADE/)<br> 
 [SPADE Code](https://github.com/agermanidis/SPADE)<br>
-SPADE-Landscapes Model<br>
-[![Open in RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=genekogan/spade-landscapes)
+
 
 Semantic Image Segmentation (our starting point)<br> 
+Today we are using the DeepLab model in RunwayML<br>
 [DeepLab Code](https://github.com/genekogan/deeplab-pytorch)<br>
 [COCO-Stuff Dataset: Things and Stuff Classes in Context](https://github.com/nightrome/cocostuff)<br>
-DeepLab Model<br>
-[![Open in RunwayML Badge](https://open-app.runwayml.com/gh-badge.svg)](https://open-app.runwayml.com/?model=genekogan/DeepLab)
+
+
 
 ## Overview of Our Process Today
 1. Create semantic image maps of our bodies using the DeepLab model
@@ -24,4 +25,4 @@ DeepLab Model<br>
 4. (Optional) Create a video from our new images with GIF Brewery
 
 <br></br>
-Next [Step 1: Semantic Image Segmentation using the DeepLab Model](outline/03-step1-deepLab.md)
+Next [Step 1: Semantic Image Segmentation using the DeepLab Model](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/outline/03-step1-deepLab.md)

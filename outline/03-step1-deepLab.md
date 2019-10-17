@@ -17,4 +17,4 @@
     * Check your new directory for your saved images!
 
 <br></br>
-Next [Step 2: Batch Color Labeling using Adobe Photoshop](outline/04-step2-photoshop.md)
+Next [Step 2: Batch Color Labeling using Adobe Photoshop](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/outline/04-step2-photoshop.md)

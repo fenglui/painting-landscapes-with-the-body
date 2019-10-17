@@ -9,4 +9,4 @@ Have you?
 *If you do not currently have Photoshop, you can create an Adobe account for a free 2-week trial.
 
 <br></br>
-Next [Introduction](outline/02-introduction.md) 
+Next [Introduction](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/outline/02-introduction.md) 
