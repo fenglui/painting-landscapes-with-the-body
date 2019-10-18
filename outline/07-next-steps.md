@@ -1,9 +1,11 @@
 # Next Steps
 Here are some additional experiments to try:
 
+Try the other semantic label colors in SPADE-Landscapes!
+
 From what else can you create semantic image maps? 
 
-Try the other SPADE implementations in RunwayML!<br>
+Try the other SPADE implementations in RunwayML:<br>
 * SPADE-Landscapes
 * SPADE-COCO
 * SPADE-FACE
