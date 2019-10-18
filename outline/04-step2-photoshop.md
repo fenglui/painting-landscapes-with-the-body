@@ -11,16 +11,16 @@
 ## Part 2: Use Photoshop batch color change the images exported from DeepLab
 1. Open your first DeepLab image in Photoshop
 2. Let’s create an action to save all the steps that we need to update the colors of this image. Then, we can apply that action to the rest of the your DeepLab images.
-    1. Launch the Actions panel: Window → Actions
-    2. In that panel, click the icon left of the trash can to “create a new action”
-    3. Name it Action 1 and click Record
-    4. Select the paint bucket 
-    5. Click to set the foreground color and type in cloud hex color `#aaaaaa`
+    1. Launch the Actions panel: `Window → Actions`
+    2. In that panel, click the icon left of the trash can to `create a new action`
+    3. Name it `Action 1` and click the `record button`
+    4. Select the `paint bucket` 
+    5. Click to set the `foreground color` and type in cloud hex color `#aaaaaa`
     6. Click to fill the white portion of your DeepLab image--watch where you click!
-    7. Click to set the foreground color and type in the sky hex color `#5fdbff`
+    7. Click to set the `foreground color` and type in the sky hex color `#5fdbff`
     8. Fill in the black portion of your DeepLab image with your new color--watch where you click!
-    9. Save the image file: File → Save As (save into a new folder)
-    10. Close the image file: File → Close
+    9. Save the image file: `File → Save As` (save into a new folder)
+    10. Close the image file: `File → Close`
     11. Your Action should have these steps:
         * Set Foreground Color
         * Fill
@@ -28,8 +28,8 @@
         * Fill
         * Save
         * Close
-    12. Press Stop in the Action panel
-3. Let’s apply this Action to the rest of the images in your DeepLab directory: File → Automate → Batch
+    12. Click the `stop button` in the Action panel
+3. Let’s apply this Action to the rest of the images in your DeepLab directory: `File → Automate → Batch`
     1. Play, Action: Action 1
     2. Set Source Folder, click Choose… → select your DeepLab directory
     3. Set the Destination Folder, click Choose… → choose the new folder you just created
