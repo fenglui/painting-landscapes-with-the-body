@@ -35,7 +35,10 @@
     3. Set the Destination Folder, click Choose… → choose the new folder you just created
     4. Click OK to run the batch. If successful, your new folder should be full of images that look something like this:
 
+I know, so many steps. Here's a [video](https://www.youtube.com/watch?v=VBFle_SIFEE):<br>
+[![screencast_thumbnail](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/images/screencast_thumbnail.png)](https://www.youtube.com/watch?v=VBFle_SIFEE)
 
+Final result: a folder full of these!<br>
 ![demo](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/images/demo_Adobe.png)
 
 <br></br>
