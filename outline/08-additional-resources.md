@@ -19,6 +19,7 @@
 * [The Coding Train: Live Stream #184: uNet and BodyPix with ml5.js](https://www.youtube.com/watch?v=jKHgVdyC55M)
 
 ## RunwayML
+* [Plugin for Photoshop](https://github.com/runwayml/RunwayML-for-Photoshop)
 * [Twitter](https://twitter.com/runwayml)<br>
 * [Slack](http://runwayml.com/joinslack)<br>
 * [Learning Guides](https://learn.runwayml.com)<br>
