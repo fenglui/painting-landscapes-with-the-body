@@ -12,4 +12,4 @@ Notes: Use this tool if the Video Export option in Step 3 fails and you end up e
 ![demo](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/images/demo_GIF.gif)
 
 <br></br>
-Next [Step 5: Next Steps](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/outline/07-next-steps.md)
+[Next Steps](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/outline/07-next-steps.md)
