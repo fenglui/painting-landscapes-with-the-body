@@ -4,6 +4,9 @@
 1. In RunwayML, add SPADE-Landscapes to a Workspace
 2. Input === Segmentation
 3. Under Options (on the right), find the tiny `Export Colors` button, above the color labels. Click it to download the color labels to your computer for reference.
+4. Note that the hex colors
+    1. clouds: `#aaaaaa`
+    2. sky: `#5fdbff`
 
 <br></br>
 (👇Perhaps the trickiest part of the workshop)
@@ -14,9 +17,9 @@
     2. In that panel, click the icon left of the trash can to “create a new action”
     3. Name it Action 1 and click Record
     4. Select the paint bucket 
-    5. Click to set the foreground color and type in hex color `#aaaaaa`
+    5. Click to set the foreground color and type in cloud hex color `#aaaaaa`
     6. Click to fill the white portion of your DeepLab image--watch where you click!
-    7. Click to set the foreground color and type in the hex color `#5fdbff`
+    7. Click to set the foreground color and type in the sky hex color `#5fdbff`
     8. Fill in the black portion of your DeepLab image with your new color--watch where you click!
     9. Save the image file: File → Save As (save into a new folder)
     10. Close the image file: File → Close
