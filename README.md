@@ -1,5 +1,8 @@
-# Painting Landscapes with the Body 💃🏽 🖼
-A workshop on semantic image segmentation and synthesis using RunwayML +  Adobe Photoshop
+# Painting Landscapes with the Body
+
+![demo](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/images/demo_SPADE-landscapes.png)<br>
+A workshop on semantic image segmentation and synthesis<br>
+using RunwayML +  Adobe Photoshop
 
 <br>
 AI Lab @ NYU ITP<br>
