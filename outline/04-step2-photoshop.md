@@ -4,7 +4,7 @@
 1. In RunwayML, add SPADE-Landscapes to a Workspace
 2. Input === Segmentation
 3. Under Options (on the right), find the tiny `Export Colors` button, above the color labels. Click it to download the color labels to your computer for reference.
-4. Note the hex colors: `#aaaaaa` for clouds and `#5fdbff`for sky
+4. Note the hex colors: clouds `#aaaaaa` and sky `#5fdbff`
 
 <br></br>
 (👇Perhaps the trickiest part of the workshop)
