@@ -35,7 +35,7 @@
         ![demo](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/images/demo_Adobe.png)
 
 
-Heres's an alternative method for changing the colors using the paint bucket tool, but it's not as good at the above. Why? Because this version here isdependent on mouse location and continous areas of color. Here's a [video](https://www.youtube.com/watch?v=VBFle_SIFEE).
+(Here's an alternative method for changing the colors using the paint bucket tool, but it's not as good at the above. Why? Because this version here is dependent on mouse location and continous areas of color. Here's a [video](https://www.youtube.com/watch?v=VBFle_SIFEE) with all the steps.)
 
   
 <br></br>
