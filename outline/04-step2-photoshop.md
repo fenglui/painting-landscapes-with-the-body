@@ -14,32 +14,29 @@
     1. Launch the Actions panel: `Window → Actions`
     2. In that panel, click the icon left of the trash can to `create a new action`
     3. Name it `Action 1` and click the `record button`
-    4. Select the `paint bucket` 
-    5. Click to set the `foreground color` and type in cloud hex color `#aaaaaa`
-    6. Click to fill the white portion of your DeepLab image--watch where you click!
-    7. Click to set the `foreground color` and type in the sky hex color `#5fdbff`
-    8. Fill in the black portion of your DeepLab image with your new color--watch where you click!
-    9. Save the image file: `File → Save As` (save into a new folder)
-    10. Close the image file: `File → Close`
-    11. Your Action should have these steps:
-        * Set Foreground Color
-        * Fill
-        * Set Foreground Color
-        * Fill
-        * Save
-        * Close
-    12. Click the `stop button` in the Action panel
-3. Let’s apply this Action to the rest of the images in your DeepLab directory: `File → Automate → Batch`
-    1. Play, Action: Action 1
-    2. Set Source Folder, click Choose… → select your DeepLab directory
-    3. Set the Destination Folder, click Choose… → choose the new folder you just created
-    4. Click OK to run the batch. If successful, your new folder should be full of images that look something like this:
+    4. Let's make the first color change:
+        1. Click to set the `foreground color` and type in cloud hex color `#aaaaaa`
+        2. Select everything that is white: `Select → Color Range'
+        3. ...and from the `Select` drop-down menu, choose `Highlights` and click OK
+        4. Now let's fill everything that was selected with the cloud hex color: `Edit → Fill`
+        5. ...and from the `Contents` drop-down menu: choose `Foreground Color` and click OK
+    5. Let's make the second color change:
+        1. Click to set the `foreground color` and type in sky hex color `#5fdbff`
+        2. Select the inverse of what is currently selected: `Select → Inverse' 
+        3. Now let's fill everything that was selected with a different color: `Edit → Fill`
+        4. ...and from the `Contents` drop-down menu: choose `Foreground Color` and click OK
+    6. Click the `stop button` in the Action panel
+    7. Let’s apply this Action to the rest of the images in your DeepLab directory: `File → Automate → Batch`
+        1. Under Play, set the Action to `Action 1`
+        2. Set Source Folder, click Choose… → select your DeepLab directory
+        3. Set the Destination Folder, click Choose… → choose the new folder you just created
+        4. Click OK to run the batch. 
+        5. Final result: a folder full of these!<br>
+        ![demo](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/images/demo_Adobe.png)
 
-I know, so many steps. Here's a [video](https://www.youtube.com/watch?v=VBFle_SIFEE):<br>
-[![screencast_thumbnail](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/images/screencast_thumbnail.png)](https://www.youtube.com/watch?v=VBFle_SIFEE)
 
-Final result: a folder full of these!<br>
-![demo](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/images/demo_Adobe.png)
+Heres's an alternative method for changing the colors using the paint bucket tool, but it's not as good at the above. Why? Because this version here isdependent on mouse location and continous areas of color. Here's a [video](https://www.youtube.com/watch?v=VBFle_SIFEE).
 
+  
 <br></br>
 Next [Step 3: Semantic Image Synthesis using the SPADE-Landscapes Model](https://github.com/ellennickles/painting-landscapes-with-the-body/blob/master/outline/05-step3-spadeLandscapes.md)
