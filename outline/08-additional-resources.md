@@ -1,7 +1,8 @@
 # Additional Resources
 
-## Article
+## Misc
 * [The Future of Design, Pt. 1: Body as Input: With machine learning, our bodies may be the next step in the way we interact with the internet](https://modus.medium.com/a-live-intelligent-web-how-will-we-design-for-it-part-one-21ab0f4a25e1) by ITP Human in Residence, Lisa Jamhoury
+* [What's the difference between CPU and GPU? Here's a demo from Mythbusters](https://www.youtube.com/watch?v=-P28LKWTzrI)
 
 ## pix2pix
 * [Image-to-Image Translation with Conditional Adversarial Nets (pix2pix)](https://phillipi.github.io/pix2pix/), paper and code<br>
